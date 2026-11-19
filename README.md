@@ -6,3 +6,4 @@
 El ejercicio implementa una clase abstracta `ItemFacturable` y tres clases concretas: `ProductoImportado`, `ServicioProfesional` y `AlimentoBasico`, cada una con su propia tasa impositiva. Los ítems se almacenan en una lista y se recorren para generar el desglose de la factura y calcular el total.
 
 **Conceptos aplicados:** clases abstractas, herencia, polimorfismo, sobrescritura de métodos, encapsulamiento, ArrayList y constantes.
+![U2 ejercicio27](U2%20ejercicio27.png)
